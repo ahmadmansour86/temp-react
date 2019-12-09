@@ -1,0 +1,26 @@
+* , *:after , *:before {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  font-family: lucida sans ;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.container {
+  width: 85%;
+  margin: auto;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+.active{
+  color: #eb5424 !important;
+}
